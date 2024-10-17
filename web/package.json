@@ -69,7 +69,7 @@
     "@immich/sdk": "file:../open-api/typescript-sdk",
     "@mapbox/mapbox-gl-rtl-text": "^0.3.0",
     "@mdi/js": "^7.4.47",
-    "@photo-sphere-viewer/core": "^5.7.1",
+    "@photo-sphere-viewer/core": "^5.10.1",
     "@photo-sphere-viewer/equirectangular-video-adapter": "^5.7.2",
     "@photo-sphere-viewer/video-plugin": "^5.7.2",
     "@zoom-image/svelte": "^0.2.6",
